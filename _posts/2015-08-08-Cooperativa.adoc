@@ -1,3 +1,3 @@
-= Demo Tittle
+= Cooperativa
 
-:hp-image: salta_bici.jpg
+:hp-image: posts/mafalda_coop.jpg
