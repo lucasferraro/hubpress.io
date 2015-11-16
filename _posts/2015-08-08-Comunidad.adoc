@@ -1,3 +1,4 @@
-= Cooperativa
+= Comunidad
 
-:hp-image: posts/mafalda_coop.jpg
+:hp-image: posts/happiness_shared1.jpg
+
