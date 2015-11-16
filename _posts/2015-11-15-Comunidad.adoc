@@ -16,4 +16,8 @@ Todo lo que querramos lograr pensemoslo en comunidad, compartamoslo! Brindemos d
 
 Por todo esto creo que todos los problemas que tiene nuestra ciudad, provincia, país, continente, mundo, se resuelve en comunidad. No nos alejemos nunca del otro. Volvamos a creer en la unidad, la solidaridad y el respeto.
 
+____
+PyConAr 2015
+____
+
 image::posts/happiness_shared1.jpg[]
