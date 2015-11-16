@@ -1,7 +1,6 @@
 = Comunidad
 
 :hp-image: posts/happiness_shared1.jpg
-:published_at: 2015-11-15
 
 Hasta no hace mucho tiempo me planteaba la remota posibilidad de escapar, de comenzar una nueva vida fuera y lejos de todo lo malo que me rodeaba. Había perdido la confianza en la comunidad, en el otro. Me rehusaba a tratar de entender las acciones individualistas y que buscan el beneficio personal como algo único.
 
