@@ -1,3 +1,0 @@
-= Demo Tittle
-
-:hp-image: salta_bici.jpg

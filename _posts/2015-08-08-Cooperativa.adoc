@@ -1,0 +1,3 @@
+= Cooperativa
+
+:hp-image: posts/mafalda_coop.jpg
